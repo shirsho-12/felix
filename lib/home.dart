@@ -14,13 +14,13 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   @override
-  int page = 0;
+  int page = 1;
   @override
   Widget build(BuildContext context) {
     whichpage() {
       if (page == 0) {
         return const ImageToText();
-      } else if (page == 1) {
+      } else if (page == 2) {
         return const SpeechToTextTranslate();
       } else {
         return const TextTranslate();
