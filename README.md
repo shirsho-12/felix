@@ -1,16 +1,7 @@
-# facethelaw
+# Felix
 
-Mood detection app for online court hearings
+Translating for Justice
 
-## Getting Started
+## Felix Felicis
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With Felix, it solves the problem of delays and miscommunication, reducing the number of human errors. As Felix operates instantly in real time after someone speaks, it eases the burden on the interpreters as they may miss some pointers while attempting to translate the witness’s or judge’s words. Although we recognise that court interpreters would have the necessary qualifications, Felix makes the job easier. Additionally, it is an alternative if a translator is unavailable or delayed.
